@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenyong Li"
-  avatar           : "10k.jpg"
+  avatar           : "10k.png"
   bio              : "RESEARCH ASSOCIATE PROFESSOR, 
                       PHD ADVISOR BEIJING UNIVERSITY OF POSTS AND TELECOMMUNICATIONS"
   location         : "Location"
@@ -104,13 +104,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0029-8313"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
