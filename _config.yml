@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenyong Li/Personal Homepage"
+title                    : "Wenyong Li"
 title_separator          : "-"
 name                     : &name "Wenyong Li"
 description              : &description "李文勇，特聘副研究员，博士生导师。德国马克思普朗克协会国际交流奖学金获得者、2022年中国电子教育学会优秀博士论文奖获得者。长期从事空天遥感数据智能处理和深度学习等方面研究，包括多源遥感数据智能解译、计算机视觉、电磁智能感知认知等。"
@@ -89,7 +89,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Wenyong-Li"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
