@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research associate professor at National Engineering Research Center for Information Technology in Agriculture (NERCITA), Beijing, China.
+I am a research associate professor at National Engineering Research Center for Information Technology in Agriculture (NERCITA), Beijing, China. 
 My main research interests lie at the intersection of computer vision, information processing, and smart agriculture, which covers a wide range of topics including object detection and classification, few-shot learning, explainable artificial inteligience.
 I received my PhD degree from College of Information and Electrical Engineering at China Agricultural University, Beijing, China. 
 
