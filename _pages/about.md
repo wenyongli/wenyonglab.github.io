@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Wenyong Li, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a research associate professor at School of Information and Communication Engineering, Beijing University of Posts and Telecommunications.
-My research lies at the intersection of computer vision, natural language processing, and remote sensing, which covers a wide range of topics including remote sensing scene classification, few-shot learning, image captioning, explainable artificial inteligience.
-I got my PhD degree from University of Chinese Academy of Sciences, advised by Prof. Yirong Wu. During my PhD, I'm also co-supervised by Prof. Zeynep Akata and Prof. Bernt Schiele at Max Plank Institute for Informatics. I got my Bachelar's degree with horner from Beijing Institute of Technology at 2016. During Jan.2016 - Jul.2016, I finished my bachelor thesis under the supervision of Prof. Tobias Oechtering at KTH.
+I am a research associate professor at National Engineering Research Center for Information Technology in Agriculture (NERCITA), Beijing, China.
+My main research interests lie at the intersection of computer vision, information processing, and smart agriculture, which covers a wide range of topics including object detection and classification, few-shot learning, explainable artificial inteligience.
+I received my PhD degree from College of Information and Electrical Engineering at China Agricultural University, Beijing, China. 
 
-A data-driven personal website
+Specifically, my research interests include
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
